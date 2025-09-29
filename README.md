@@ -38,7 +38,7 @@ The graphical user interface (GUI) will pop up where you can input:
 
 - **Position**: Job title or keyword (e.g., "Controller").
 - **Radius**: Search radius in kilometers
-- **Page**: Page number of job results to scrape
+- **Page**: Page number of job results to scrape (Make sure to add this in increments of 10)
 
 ### 3. Click "Scrape" to Start the Process
 
