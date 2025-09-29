@@ -1,6 +1,6 @@
 # WebScraper for Job Listings - Indeed
 
-This is a Python-based web scraper that retrieves job listings from Indeed's website based on the provided position, radius, and page number. The scraper collects job details such as job title, company, and location, and saves them to CSV and Excel files for further analysis.
+This is the GUI based verison of the Indeed Scraper.
 
 ## Technologies Used
 
